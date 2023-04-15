@@ -1,0 +1,3 @@
+http://ya.ru/maps  2
+http://ya.ru  3
+http://www.google.ru/search 1
